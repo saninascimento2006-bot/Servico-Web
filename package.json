@@ -1,0 +1,16 @@
+{
+  "name": "servico-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Anna Caroline e Maycon",
+  "license": "ISC",
+  "dependencies": {
+    "next": "15.5.4",
+    "react": "19.1.1",
+    "react-dom": "19.2.0"
+  }
+}
